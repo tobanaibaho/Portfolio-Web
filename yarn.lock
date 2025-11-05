@@ -340,6 +340,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@netlify/next@npm:^1.4.9":
+  version: 1.4.9
+  resolution: "@netlify/next@npm:1.4.9"
+  peerDependencies:
+    next: ">=12.2.0"
+  checksum: 10c0/999735f956b69b842b12684f474ebe62c4e6473118883daa6833a400d4b352edd9e7c8f64d8b6cbc3d253f41c5fa7f49000bac995077a9339d21948d9b6bd603
+  languageName: node
+  linkType: hard
+
 "@next/env@npm:16.0.1":
   version: 16.0.1
   resolution: "@next/env@npm:16.0.1"
@@ -3074,6 +3083,7 @@ __metadata:
   resolution: "my-v0-project@workspace:."
   dependencies:
     "@hookform/resolvers": "npm:^3.9.1"
+    "@netlify/next": "npm:^1.4.9"
     "@radix-ui/react-accordion": "npm:1.2.2"
     "@radix-ui/react-alert-dialog": "npm:1.1.4"
     "@radix-ui/react-aspect-ratio": "npm:1.1.1"
