@@ -713,6 +713,28 @@ export default function Portfolio() {
                 <p className="text-sm text-gray-500">2025</p>
               </CardContent>
             </Card>
+
+            <Card className="bg-gray-900 border-gray-800 hover:border-gray-600 transition-all duration-300 hover:transform hover:scale-105">
+              <CardHeader className="text-center">
+                <img src="certificate/ProjectManagement.jpg" alt="Sertifikat4" />
+                <CardTitle className="text-white text-[20px]">Fundamental Project Management</CardTitle>
+              </CardHeader>
+              <CardContent className="text-center">
+                <p className="text-sm text-gray-400 -mt-2 mb-2">Certified by KOMDIGI</p>
+                <p className="text-sm text-gray-500">2025</p>
+              </CardContent>
+            </Card>
+
+            <Card className="bg-gray-900 border-gray-800 hover:border-gray-600 transition-all duration-300 hover:transform hover:scale-105">
+              <CardHeader className="text-center">
+                <img src="certificate/Ethical.jpg" alt="Sertifikat4" />
+                <CardTitle className="text-white text-[20px]">Ethical Hacker For Dummies</CardTitle>
+              </CardHeader>
+              <CardContent className="text-center">
+                <p className="text-sm text-gray-400 -mt-2 mb-2">Certified by KOMDIGI</p>
+                <p className="text-sm text-gray-500">2025</p>
+              </CardContent>
+            </Card>
           </div>
         </div>
       </section>
